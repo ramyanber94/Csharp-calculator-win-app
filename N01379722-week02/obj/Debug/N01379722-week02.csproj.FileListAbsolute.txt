@@ -1,0 +1,10 @@
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\bin\Debug\N01379722-week02.exe.config
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\bin\Debug\N01379722-week02.exe
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\bin\Debug\N01379722-week02.pdb
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\obj\Debug\N01379722-week02.csprojAssemblyReference.cache
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\obj\Debug\N01379722_week02.Properties.Resources.resources
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\obj\Debug\N01379722-week02.csproj.GenerateResource.cache
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\obj\Debug\N01379722-week02.csproj.CoreCompileInputs.cache
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\obj\Debug\N01379722-week02.exe
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\obj\Debug\N01379722-week02.pdb
+D:\semster2\c#\class practices\week2\N01379722-week02\N01379722-week02\obj\Debug\N01379722_week02.calcFrm.resources
